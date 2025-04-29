@@ -14,7 +14,7 @@
 Fire up your favorite terminal and run:
 
 ```bash
-$ npx nnhjs
+npx nnhjs
 # Watch the magic happen! (⌐■_■)
 ```
 
