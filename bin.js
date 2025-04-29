@@ -30,11 +30,11 @@ const divider = createLine(" " + subtle("━".repeat(width - 2)) + " ");
 
 const data = {
   name: "Hung Nguyen",
-  alias: "nnhjs",
+  alias: "markehvn",
   work: "Frontend Engineer @ Employment Hero",
   bluesky: "@nghiahung.dev",
-  github: "https://github.com/nnhjs",
-  email: "hi@nghiahung.dev",
+  github: "https://github.com/markehvn",
+  email: "hung.nguyen2@employmenthero.com",
   web: "https://nghiahung.dev",
 };
 
@@ -105,7 +105,7 @@ const card = [
       " " +
       secondary("npx") +
       " " +
-      highlight("nnhjs") +
+      highlight(data.alias) +
       " " +
       subtle("anytime to see this card")
   ),
