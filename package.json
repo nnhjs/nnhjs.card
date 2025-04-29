@@ -1,0 +1,24 @@
+{
+  "name": "nnhjs.card",
+  "version": "1.0.0",
+  "description": "nnhjs's terminal business card",
+  "main": "bin.js",
+  "type": "module",
+  "bin": {
+    "nnhjs": "./bin.js"
+  },
+  "scripts": {
+    "start": "node bin.js"
+  },
+  "keywords": [
+    "cli",
+    "business-card",
+    "npx"
+  ],
+  "author": "Hung Nguyen <hi@nghiahung.dev>",
+  "license": "MIT",
+  "packageManager": "pnpm@10.9.0",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
